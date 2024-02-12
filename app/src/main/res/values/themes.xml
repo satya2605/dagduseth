@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Dagdusheth" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="satya" parent="Base.Theme.Dagdusheth">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:fitsSystemWindows">true</item>
+
+    </style>
+
+    <style name="Theme.Dagdusheth" parent="Base.Theme.Dagdusheth" />
+</resources>
+
+
+<!--<resources xmlns:tools="http://schemas.android.com/tools">-->
+<!--&lt;!&ndash; Base application theme. &ndash;&gt;-->
+<!--<style name="Base.Theme.JayGanesh" parent="Theme.Material3.DayNight.NoActionBar">-->
+<!--    &lt;!&ndash; Customize your light theme here. &ndash;&gt;-->
+<!--    <item name="actionBarStyle" >@color/white</item>-->
+<!--    &lt;!&ndash; <item name="colorPrimary">@color/my_light_primary</item> &ndash;&gt;-->
+<!--</style>-->
+<!--<style name="satya" parent="Base.Theme.JayGanesh">-->
+<!--    <item name="windowActionBar">false</item>-->
+<!--    <item name="android:windowNoTitle">true</item>-->
+<!--    <item name="android:windowTranslucentStatus">true</item>-->
+<!--    <item name="android:windowTranslucentNavigation">true</item>-->
+<!--    <item name="android:fitsSystemWindows">true</item>-->
+
+<!--</style>-->
+
+
+<!--<style name="Theme.JayGanesh" parent="Base.Theme.JayGanesh" />-->
+<!--</resources>-->

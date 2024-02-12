@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">|| जय गणेश ||</string>
+    <string name="Abhishek_Count">आजचे अभिषेक : </string>
+    <string name="buttonText">Save</string>
+    <string name="name">नाव</string>
+    <string name="gotra"> गोत्र </string>
+    <string name="address">पत्ता</string>
+    <string name="contact">संपर्क</string>
+    <string name="nav_taka">नाव टाका</string>
+    <string name="gotra_taka">गोत्र टाका</string>
+    <string name="address_taka">पत्ता टाका</string>
+    <string name="contact_taka">संपर्क टाका</string>
+    <string name="JayGanesh">|| जय गणेश ||</string>
+    <string name="payment_mode">पेमेंट प्रकार:</string>
+    <string name="cash">Cash</string>
+    <string name="online">Online</string>
+    <string name="gurijiche_name">गुरुजींचे नाव: </string>
+    <string name="gurujiche_nav_taka">गुरुजींचे नाव टाका</string>
+    <string name="vrukshaprasad">VrukshaPrasad:</string>
+    <string name="hoy">होय</string>
+    <string name="nahi">नाही</string>
+    <string name="exit">बाहेर</string>
+    <string name="report">रिपोर्ट</string>
+    <string name="abhishek">अभिषेक</string>
+    <string name="city">शहर</string>
+</resources>
